@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 460" width="100%" height="100%">
+  <rect width="920" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="460" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#051C2C" text-anchor="middle">模組五 人生地圖：Erik Erikson 心理社會發展四大成年階段與危機轉化</text>
+  
+  <!-- 4 Stage Columns -->
+  <!-- Col 1 -->
+  <g transform="translate(30, 60)">
+    <rect width="205" height="355" rx="8" fill="#FFFFFF" stroke="#0284C7" stroke-width="2" />
+    <rect width="205" height="40" rx="8" fill="#0284C7" />
+    <text x="102" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">階段一：青春期使命</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0369A1">【核心心理衝突】</text>
+    <text x="15" y="90" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">同一性 vs. 角色混亂</text>
+    <text x="15" y="108" font-family="-apple-system, sans-serif" font-size="10" fill="#64748B">(Identity vs. Confusion)</text>
+
+    <text x="15" y="140" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0369A1">【核心發展任務】</text>
+    <text x="15" y="162" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 回答「我是誰？我要去哪？」</text>
+    <text x="15" y="182" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 探索個人信念與價值觀</text>
+    <text x="15" y="202" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 擺脫對父母認同的單純依附</text>
+
+    <rect x="15" y="240" width="175" height="95" rx="6" fill="#F0F9FF" />
+    <text x="25" y="265" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0369A1">獲得心靈美德：</text>
+    <text x="25" y="290" font-family="-apple-system, sans-serif" font-size="15" font-weight="bold" fill="#0284C7">【忠誠 Fidelity】</text>
+    <text x="25" y="315" font-family="-apple-system, sans-serif" font-size="10" fill="#64748B">對真實自我方向的信守</text>
+  </g>
+
+  <!-- Col 2 -->
+  <g transform="translate(248, 60)">
+    <rect width="205" height="355" rx="8" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+    <rect width="205" height="40" rx="8" fill="#004F32" />
+    <text x="102" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">階段二：成年早期</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#004F32">【核心心理衝突】</text>
+    <text x="15" y="90" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">親密感 vs. 孤獨感</text>
+    <text x="15" y="108" font-family="-apple-system, sans-serif" font-size="10" fill="#64748B">(Intimacy vs. Isolation)</text>
+
+    <text x="15" y="140" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#004F32">【核心發展任務】</text>
+    <text x="15" y="162" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 學會愛的能力：打開心扉</text>
+    <text x="15" y="182" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 敢於向伴侶暴露脆弱</text>
+    <text x="15" y="202" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 建立職業認同與專業專長</text>
+
+    <rect x="15" y="240" width="175" height="95" rx="6" fill="#F0FDF4" />
+    <text x="25" y="265" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#004F32">獲得心靈美德：</text>
+    <text x="25" y="290" font-family="-apple-system, sans-serif" font-size="15" font-weight="bold" fill="#004F32">【愛 Love】</text>
+    <text x="25" y="315" font-family="-apple-system, sans-serif" font-size="10" fill="#64748B">在深刻親密中保有自我獨立</text>
+  </g>
+
+  <!-- Col 3 -->
+  <g transform="translate(466, 60)">
+    <rect width="205" height="355" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="2" />
+    <rect width="205" height="40" rx="8" fill="#D97706" />
+    <text x="102" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">階段三：中年期使命</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B45309">【核心心理衝突】</text>
+    <text x="15" y="90" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">繁殖/創生感 vs. 停滯感</text>
+    <text x="15" y="108" font-family="-apple-system, sans-serif" font-size="10" fill="#64748B">(Generativity vs. Stagnation)</text>
+
+    <text x="15" y="140" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B45309">【核心發展任務】</text>
+    <text x="15" y="162" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 教養與陪伴下一代成長</text>
+    <text x="15" y="182" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 傳承自身人生經驗與智慧</text>
+    <text x="15" y="202" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 扮演青年世代的導師與燈塔</text>
+
+    <rect x="15" y="240" width="175" height="95" rx="6" fill="#FEF3C7" />
+    <text x="25" y="265" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B45309">獲得心靈美德：</text>
+    <text x="25" y="290" font-family="-apple-system, sans-serif" font-size="15" font-weight="bold" fill="#D97706">【關懷 Care】</text>
+    <text x="25" y="315" font-family="-apple-system, sans-serif" font-size="10" fill="#64748B">超越私利，滋養他人生命</text>
+  </g>
+
+  <!-- Col 4 -->
+  <g transform="translate(684, 60)">
+    <rect width="205" height="355" rx="8" fill="#FFFFFF" stroke="#6B21A8" stroke-width="2" />
+    <rect width="205" height="40" rx="8" fill="#6B21A8" />
+    <text x="102" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">階段四：晚年期使命</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#6B21A8">【核心心理衝突】</text>
+    <text x="15" y="90" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">自我整合 vs. 絕望感</text>
+    <text x="15" y="108" font-family="-apple-system, sans-serif" font-size="10" fill="#64748B">(Ego Integrity vs. Despair)</text>
+
+    <text x="15" y="140" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#6B21A8">【核心發展任務】</text>
+    <text x="15" y="162" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 回首一生得失，接納圓缺</text>
+    <text x="15" y="182" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 承認局限，與過往遺憾和解</text>
+    <text x="15" y="202" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 超脫死亡恐懼，安享精神圓滿</text>
+
+    <rect x="15" y="240" width="175" height="95" rx="6" fill="#F5F3FF" />
+    <text x="25" y="265" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#6B21A8">獲得心靈美德：</text>
+    <text x="25" y="290" font-family="-apple-system, sans-serif" font-size="15" font-weight="bold" fill="#6B21A8">【智慧 Wisdom】</text>
+    <text x="25" y="315" font-family="-apple-system, sans-serif" font-size="10" fill="#64748B">以超然平靜接納生命終局</text>
+  </g>
+  
+  <text x="460" y="442" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 15 ｜ 埃里克森人生地圖：四大成年階段之心理衝突、發展任務與美德收穫</text>
+</svg>

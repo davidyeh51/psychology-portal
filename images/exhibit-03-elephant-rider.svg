@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <!-- Left Side: Rider & Elephant Concept -->
+  <g transform="translate(40, 40)">
+    <rect width="360" height="370" rx="10" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+    <rect width="360" height="40" rx="10" fill="#004F32" />
+    <text x="180" y="26" font-family="-apple-system, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle">海特心理模型：象與騎象人</text>
+    
+    <!-- Rider -->
+    <rect x="30" y="65" width="300" height="90" rx="8" fill="#F0FDF4" stroke="#86EFAC" stroke-width="1.5" />
+    <text x="50" y="92" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#004F32">【騎象人】理性與邏輯 (Rider)</text>
+    <text x="50" y="115" font-family="-apple-system, sans-serif" font-size="12" fill="#374151">• 功能：指引方向、分析規劃、設想未來</text>
+    <text x="50" y="135" font-family="-apple-system, sans-serif" font-size="12" fill="#DC2626">• 痛點：力量微弱、易心理耗竭、單靠意志難以持久</text>
+
+    <!-- Elephant -->
+    <rect x="30" y="175" width="300" height="110" rx="8" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1.5" />
+    <text x="50" y="202" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#B45309">【大象】情感與潛意識 (Elephant)</text>
+    <text x="50" y="225" font-family="-apple-system, sans-serif" font-size="12" fill="#374151">• 功能：提供強大前進動力、受切身體會支配</text>
+    <text x="50" y="245" font-family="-apple-system, sans-serif" font-size="12" fill="#374151">• 盲點：恐懼不確定性、貪戀既有安全感、容易退縮</text>
+    <text x="50" y="265" font-family="-apple-system, sans-serif" font-size="12" fill="#15803D">• 核心心法：以「愛與期待」引導，創造「新經驗的好處」</text>
+    
+    <rect x="30" y="305" width="300" height="80" rx="8" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1" />
+    <text x="180" y="332" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#1E40AF" text-anchor="middle">改變鐵律：經驗勝過道理</text>
+    <text x="180" y="355" font-family="-apple-system, sans-serif" font-size="11" fill="#475569" text-anchor="middle">「期待的好處」只在理智大腦中飄渺</text>
+    <text x="180" y="372" font-family="-apple-system, sans-serif" font-size="11" fill="#475569" text-anchor="middle">「經驗的好處」才能真正讓大象自發邁步！</text>
+  </g>
+
+  <!-- Right Side: 4-Step Chain Flow -->
+  <g transform="translate(430, 40)">
+    <rect width="430" height="370" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+    <rect width="430" height="40" rx="10" fill="#051C2C" />
+    <text x="215" y="26" font-family="-apple-system, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle">新經驗形成的 4 步演進迴路 (Chain Flow)</text>
+    
+    <!-- Step 1 -->
+    <rect x="25" y="60" width="380" height="65" rx="6" fill="#F8FAFC" stroke="#E2E8F0" />
+    <circle cx="55" cy="92" r="16" fill="#004F32" />
+    <text x="55" y="97" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="85" y="85" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A">理性指引方向 (Direction)</text>
+    <text x="85" y="105" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B">騎象人看清目標，明確定義可行的具體成果，拒絕抽象空想。</text>
+
+    <!-- Step 2 -->
+    <rect x="25" y="135" width="380" height="65" rx="6" fill="#F8FAFC" stroke="#E2E8F0" />
+    <circle cx="55" cy="167" r="16" fill="#004F32" />
+    <text x="55" y="172" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="85" y="160" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A">情感觸發與喚醒 (Arousal)</text>
+    <text x="85" y="180" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B">拒絕自責！用「微小期待」讓大象感到安全，激發前進好奇心。</text>
+
+    <!-- Step 3 -->
+    <rect x="25" y="210" width="380" height="65" rx="6" fill="#F8FAFC" stroke="#E2E8F0" />
+    <circle cx="55" cy="242" r="16" fill="#004F32" />
+    <text x="55" y="247" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="85" y="235" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A">小步子與環境場 (Micro-Action)</text>
+    <text x="85" y="255" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B">阻力小到不可能失敗的第一步；以固定物理環境釋放行為觸發線索。</text>
+
+    <!-- Step 4 -->
+    <rect x="25" y="285" width="380" height="65" rx="6" fill="#F0FDF4" stroke="#86EFAC" stroke-width="1.5" />
+    <circle cx="55" cy="317" r="16" fill="#15803D" />
+    <text x="55" y="322" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="85" y="310" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#166534">新經驗鞏固習慣 (Habit Loop) ★ 關鍵</text>
+    <text x="85" y="330" font-family="-apple-system, sans-serif" font-size="11" fill="#15803D">大象親身體驗到多巴胺正反饋，神經迴路自發改道，舊模式自然瓦解！</text>
+  </g>
+  
+  <text x="450" y="445" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 3 ｜ 模組一 行為改變動力學：象與騎象人協同之新經驗形成鏈</text>
+</svg>

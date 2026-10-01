@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>大衛雲 2.0 ｜ 心理學知識庫暨顧問簡報門戶 (Psychology Portal)</title>
+  <meta name="description" content="大衛雲 2.0 心理學知識庫暨高階顧問簡報門戶。首發陳海賢《自我發展心理學》16頁無雜訊顧問簡報，支援跨領域模組擴充與全站毫秒級關鍵字深層檢索。">
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="styles.css">
+  <!-- Favicon / SVG Icon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧠</text></svg>">
+</head>
+<body>
+
+  <!-- 頂部導覽列 -->
+  <header class="portal-header">
+    <div class="portal-nav-inner">
+      <a href="index.html" class="portal-brand">
+        <span class="brand-badge">DAVIDCLOUD 2.0</span>
+        <div>
+          <span class="brand-title">心理學知識庫暨顧問簡報門戶</span>
+          <span class="brand-sub">A2. 專業管理 ▸ A2.2 個人成長 ▸ A2.2.4 心理學</span>
+        </div>
+      </a>
+      <div class="nav-actions">
+        <a href="chen-haixian-self-development.html" class="nav-btn nav-btn-primary">
+          <span>📊</span> 進入 16 頁線上簡報
+        </a>
+        <a href="downloads/chen-haixian-self-development-zero-noise.pptx" class="nav-btn nav-btn-outline" download>
+          <span>📥</span> 下載 PPTX (89KB)
+        </a>
+        <a href="https://github.com/davidyeh51/psychology-portal" target="_blank" class="nav-btn nav-btn-outline">
+          <span>🐙</span> GitHub
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- 主內容容器 -->
+  <main class="portal-container">
+
+    <!-- Hero 旗艦視覺區 -->
+    <section class="portal-hero">
+      <div class="hero-tagline">
+        <span>⚡</span> MCKINSEY &amp; BCG STANDARD EXECUTIVE BRIEFING
+      </div>
+      <h1 class="hero-title">
+        心理系統的持續演化：<br>從個人困境突破到終身發展地圖
+      </h1>
+      <p class="hero-desc">
+        依據頂尖顧問公司（McKinsey 麥肯錫、BCG 波士頓、Accenture 埃森哲）無雜訊簡報規範，深度萃取心理學巨著與心智模型。
+        雙層認知鷹架設計：為入門者提供生活痛點破解法，為進階者建立系統思考與決策矩陣。
+      </p>
+
+      <!-- 毫秒級全站深層搜尋框 -->
+      <div class="hero-search-box">
+        <div class="search-input-group">
+          <input type="text" id="globalSearchInput" class="search-input" placeholder="🔍 輸入關鍵字深層檢索全站（例：心理免疫、第二序列改變、WOOP、課題分離、英雄之旅、倦怠）..." autocomplete="off">
+          <button id="btnClearSearch" class="btn-search-clear" title="清除搜尋">✕</button>
+          <button class="btn-search-submit" onclick="document.getElementById('globalSearchInput').focus()">搜尋</button>
+        </div>
+
+        <!-- 熱門關鍵字標籤晶片 -->
+        <div class="quick-keywords">
+          <span class="kw-label">熱門關鍵字：</span>
+          <button class="kw-chip" data-kw="心理免疫">心理免疫</button>
+          <button class="kw-chip" data-kw="第二序列改變">第二序列改變</button>
+          <button class="kw-chip" data-kw="成長型思維">成長型思維</button>
+          <button class="kw-chip" data-kw="應該思維">應該思維</button>
+          <button class="kw-chip" data-kw="WOOP">WOOP 思維</button>
+          <button class="kw-chip" data-kw="控制兩分法">控制兩分法</button>
+          <button class="kw-chip" data-kw="去三角化">去三角化</button>
+          <button class="kw-chip" data-kw="課題分離">課題分離</button>
+          <button class="kw-chip" data-kw="非暴力溝通">非暴力溝通</button>
+          <button class="kw-chip" data-kw="轉折期">轉折三部曲</button>
+          <button class="kw-chip" data-kw="多元可能自我">多元可能自我</button>
+          <button class="kw-chip" data-kw="英雄之旅">英雄之旅</button>
+          <button class="kw-chip" data-kw="埃里克森">埃里克森人生地圖</button>
+          <button class="kw-chip" data-kw="倦怠">職業倦怠</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 認知層級切換器 (入門痛點 vs 進階架構) -->
+    <section class="cognitive-selector-bar">
+      <div class="cog-title">
+        <span>🎯</span> 認知層級視角篩選：
+      </div>
+      <div class="cog-pill-group">
+        <button class="cog-pill active" data-level="all">全部視角 (All)</button>
+        <button class="cog-pill" data-level="beginner">🌱 入門視角 (生活痛點與直觀隱喻)</button>
+        <button class="cog-pill" data-level="advanced">⚡ 進階架構 (底層機制與決策矩陣)</button>
+      </div>
+    </section>
+
+    <!-- 搜尋結果即時面板 -->
+    <section id="searchResultsPanel" class="search-results-panel">
+      <div class="results-header">
+        <span id="searchResultCount" class="results-count">搜尋結果</span>
+        <button class="btn-card btn-card-secondary" onclick="document.getElementById('globalSearchInput').value=''; document.getElementById('searchResultsPanel').classList.remove('active');">關閉搜尋結果 ✕</button>
+      </div>
+      <div id="searchResultsGrid" class="results-grid"></div>
+    </section>
+
+    <!-- 心理學全景五大維度架構圖 (SVG Panoramic Exhibit) -->
+    <section class="decision-matrix-card" style="margin-bottom: 2.5rem;">
+      <div class="section-heading">
+        <h2 class="section-title">
+          <span>🗺️</span> 心理學自我發展全景體系地圖
+        </h2>
+        <p class="section-subtitle">
+          結合論法演繹架構：自我的持續演化由行動重構、心智模型、關係系統、轉折突破至人生使命五大維度層層遞進
+        </p>
+      </div>
+      <div style="text-align: center; background: #F8FAFC; padding: 1.5rem; border-radius: 8px; border: 1px solid var(--border-light);">
+        <img src="images/exhibit-02-combined-tree.svg" alt="心理學全景五大維度架構圖" style="max-width: 100%; height: auto; border-radius: 6px; box-shadow: var(--shadow-sm);">
+        <div style="margin-top: 1rem; display: flex; justify-content: center; gap: 1rem;">
+          <a href="chen-haixian-self-development.html#slide-02" class="btn-card btn-card-primary">
+            檢視全景架構詳細簡報 →
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- 主題領域與教材庫 (6 大主題板塊，支援未來模組化擴充) -->
+    <section class="section-heading">
+      <h2 class="section-title">
+        <span>📚</span> 心理學主題教材庫 (可擴充架構)
+      </h2>
+      <p class="section-subtitle">
+        標準模組化知識庫設計，支援隨時擴充各心理學派別、名著導讀與專題顧問簡報
+      </p>
+    </section>
+
+    <section class="topics-grid">
+      <!-- Card 1: 陳海賢 自我發展心理學 (首發旗艦教材) -->
+      <article class="topic-card featured">
+        <div>
+          <span class="topic-badge badge-featured">首發旗艦簡報 ｜ 16 頁無雜訊</span>
+          <h3 class="topic-title">自我發展心理學：實現人生突破的系統方法</h3>
+          <p class="topic-author">陳海賢 博士 著 ｜ 《了不起的我》五大模組知識萃取</p>
+          <p class="topic-summary">
+            打破「自律不足」的傳統迷思，將人生突破定位為「心理系統全面升級」。
+            完整收錄大象與騎象人、心理免疫 X 光片、第二序列改變、成長型心智、應該思維瓦解、WOOP 執行意圖、控制兩分法、互補系統、去三角化、課題分離、非暴力溝通、轉折三部曲、多元可能自我與埃里克森生命地圖。
+          </p>
+          <div class="topic-tags">
+            <span class="topic-tag">#心理系統</span>
+            <span class="topic-tag">#心理免疫</span>
+            <span class="topic-tag">#第二序列</span>
+            <span class="topic-tag">#成長型心智</span>
+            <span class="topic-tag">#課題分離</span>
+            <span class="topic-tag">#NVC</span>
+            <span class="topic-tag">#轉折期</span>
+            <span class="topic-tag">#英雄之旅</span>
+          </div>
+        </div>
+        <div class="topic-actions">
+          <a href="chen-haixian-self-development.html" class="btn-card btn-card-gold">
+            <span>📊</span> 線上互動簡報 (16 頁)
+          </a>
+          <a href="downloads/chen-haixian-self-development-zero-noise.pptx" class="btn-card btn-card-secondary" download>
+            <span>📥</span> 下載 .pptx
+          </a>
+        </div>
+      </article>
+
+      <!-- Card 2: 認知行為治療 CBT 與斯多葛哲學 -->
+      <article class="topic-card">
+        <div>
+          <span class="topic-badge">知識庫條目 ｜ 已收錄</span>
+          <h3 class="topic-title">認知行為治療 (CBT) 與打不倒的活法</h3>
+          <p class="topic-author">斯科特·沃爾特曼 等 著 ｜ 《像蘇格拉底一樣無知》</p>
+          <p class="topic-summary">
+            融合蘇格拉底式詰問與愛比克泰德斯多葛學派哲學。
+            教你識破「自動化負面思維 (NATs)」，解構「控制悖論」，在不確定性中劃清心理邊界，重獲內心無堅不摧的寧靜與韌性。
+          </p>
+          <div class="topic-tags">
+            <span class="topic-tag">#CBT</span>
+            <span class="topic-tag">#斯多葛哲學</span>
+            <span class="topic-tag">#蘇格拉底詰問</span>
+            <span class="topic-tag">#控制悖論</span>
+            <span class="topic-tag">#心理韌性</span>
+          </div>
+        </div>
+        <div class="topic-actions">
+          <a href="chen-haixian-self-development.html#slide-08" class="btn-card btn-card-primary">
+            <span>🔍</span> 檢視控制兩分法簡報
+          </a>
+        </div>
+      </article>
+
+      <!-- Card 3: 職場心理與職業倦怠 -->
+      <article class="topic-card">
+        <div>
+          <span class="topic-badge">知識庫條目 ｜ 已收錄</span>
+          <h3 class="topic-title">過勞倦怠的心理機制與環境契合度</h3>
+          <p class="topic-author">瓊恩・荷里法斯 博士 著 ｜ 《站在邊緣之境》書摘</p>
+          <p class="topic-summary">
+            深入解析馬斯勒 (Maslach) 職業倦怠三因素：情緒耗竭、憤世嫉俗與無效感。
+            提出經典「酸黃瓜比喻」——倦怠不僅是個人問題，更是工作環境醋桶（自主、公正、價值觀契合、回報）與個體間的適配危機。
+          </p>
+          <div class="topic-tags">
+            <span class="topic-tag">#職業倦怠</span>
+            <span class="topic-tag">#MBI三因素</span>
+            <span class="topic-tag">#酸黃瓜比喻</span>
+            <span class="topic-tag">#多巴胺成癮</span>
+            <span class="topic-tag">#組織契合度</span>
+          </div>
+        </div>
+        <div class="topic-actions">
+          <a href="chen-haixian-self-development.html#slide-13" class="btn-card btn-card-primary">
+            <span>💼</span> 檢視生涯轉型決策簡報
+          </a>
+        </div>
+      </article>
+
+      <!-- Card 4: 阿德勒個體心理學 (規劃中擴充) -->
+      <article class="topic-card" style="opacity: 0.85;">
+        <div>
+          <span class="topic-badge badge-upcoming">主題擴充庫 ｜ 規劃中</span>
+          <h3 class="topic-title">阿德勒個體心理學：被討厭的勇氣</h3>
+          <p class="topic-author">阿爾弗雷德·阿德勒 / 岸見一郎 著</p>
+          <p class="topic-summary">
+            「一切煩惱皆來自人際關係。」探討阿德勒目的論、課題分離深度實踐、橫向合作關係取代縱向支配，以及自我接納、他者信賴、他者貢獻所構建的共同體感覺。
+          </p>
+          <div class="topic-tags">
+            <span class="topic-tag">#阿德勒</span>
+            <span class="topic-tag">#課題分離</span>
+            <span class="topic-tag">#共同體感覺</span>
+            <span class="topic-tag">#橫向關係</span>
+          </div>
+        </div>
+        <div class="topic-actions">
+          <a href="chen-haixian-self-development.html#slide-10" class="btn-card btn-card-secondary">
+            <span>📖</span> 搶先看課題分離簡報 (Slide 10)
+          </a>
+        </div>
+      </article>
+
+      <!-- Card 5: 正向心理學與心理韌性 (規劃中擴充) -->
+      <article class="topic-card" style="opacity: 0.85;">
+        <div>
+          <span class="topic-badge badge-upcoming">主題擴充庫 ｜ 規劃中</span>
+          <h3 class="topic-title">正向心理學：PERMA 幸福模型與心理資本</h3>
+          <p class="topic-author">馬丁·塞利格曼 博士 著</p>
+          <p class="topic-summary">
+            從「修補心理創傷」邁向「蓬勃繁榮 (Flourishing)」。系統化梳理正向情緒 (P)、全心投入心流 (E)、正向關係 (R)、意義感 (M) 與成就感 (A) 五大支柱。
+          </p>
+          <div class="topic-tags">
+            <span class="topic-tag">#正向心理學</span>
+            <span class="topic-tag">#PERMA</span>
+            <span class="topic-tag">#心流</span>
+            <span class="topic-tag">#心理資本</span>
+          </div>
+        </div>
+        <div class="topic-actions">
+          <a href="chen-haixian-self-development.html#slide-14" class="btn-card btn-card-secondary">
+            <span>🌱</span> 搶先看意義重構簡報 (Slide 14)
+          </a>
+        </div>
+      </article>
+
+      <!-- Card 6: 系統關係學與薩提爾模式 (規劃中擴充) -->
+      <article class="topic-card" style="opacity: 0.85;">
+        <div>
+          <span class="topic-badge badge-upcoming">主題擴充庫 ｜ 規劃中</span>
+          <h3 class="topic-title">家庭系統動力學與薩提爾溝通姿態</h3>
+          <p class="topic-author">維吉尼亞·薩提爾 / 莫瑞·鮑恩 著</p>
+          <p class="topic-summary">
+            透視人際行為冰山：討好、指責、超理智與打岔四大生存應對姿態。以「一致性溝通」連結深層渴望，達成真正的自我分化與心靈自由。
+          </p>
+          <div class="topic-tags">
+            <span class="topic-tag">#薩提爾</span>
+            <span class="topic-tag">#冰山理論</span>
+            <span class="topic-tag">#自我分化</span>
+            <span class="topic-tag">#一致性溝通</span>
+          </div>
+        </div>
+        <div class="topic-actions">
+          <a href="chen-haixian-self-development.html#slide-11" class="btn-card btn-card-secondary">
+            <span>🕊️</span> 搶先看 NVC 非暴力溝通 (Slide 11)
+          </a>
+        </div>
+      </article>
+    </section>
+
+    <!-- 4 大處境快速分流檢索 (Decision Tree) -->
+    <section class="decision-matrix-card">
+      <div class="section-heading">
+        <h2 class="section-title">
+          <span>🧭</span> 學員四大處境快速分流檢索 (Scaffolding Decision Tree)
+        </h2>
+        <p class="section-subtitle">
+          根據你當前的生活與工作困境，直接對準最能破局的心理學模型與對應簡報頁
+        </p>
+      </div>
+
+      <div class="matrix-grid">
+        <!-- 處境 1 -->
+        <div class="situation-item">
+          <div class="situation-tag">處境一：行動停滯</div>
+          <h4 class="situation-title">立了目標卻老是拖延、做不到？</h4>
+          <p class="situation-desc">
+            理性上想改變，行動上卻總在滑手機或找藉口。你可能啟動了「心理免疫系統」，在無意識中守護著潛在好處。
+          </p>
+          <a href="chen-haixian-self-development.html#slide-04" class="situation-link">
+            直達 Slide 04：心理免疫 X 光片診斷 →
+          </a>
+        </div>
+
+        <!-- 處境 2 -->
+        <div class="situation-item">
+          <div class="situation-tag">處境二：情緒內耗</div>
+          <h4 class="situation-title">動不動就焦慮、生氣或自責？</h4>
+          <p class="situation-desc">
+            滿腦子都是「世界應該公平、他應該理解我、我不能犯錯」。你正被「應該思維的暴政」綁架，需要用理情反駁法給大腦鬆綁。
+          </p>
+          <a href="chen-haixian-self-development.html#slide-07" class="situation-link">
+            直達 Slide 07：瓦解應該思維與 ABC 反駁 →
+          </a>
+        </div>
+
+        <!-- 處境 3 -->
+        <div class="situation-item">
+          <div class="situation-tag">處境三：關係緊張</div>
+          <h4 class="situation-title">溝通總演變成爭吵、冷戰或夾心人？</h4>
+          <p class="situation-desc">
+            陷入「追與逃」的互補閉環，或在父母/同事之間當情緒受害者。落實課題分離，用非暴力溝通四步重開對話。
+          </p>
+          <a href="chen-haixian-self-development.html#slide-10" class="situation-link">
+            直達 Slide 10：去三角化與課題分離 →
+          </a>
+        </div>
+
+        <!-- 處境 4 -->
+        <div class="situation-item">
+          <div class="situation-tag">處境四：人生轉折</div>
+          <h4 class="situation-title">面臨換工作、失戀或中年迷茫？</h4>
+          <p class="situation-desc">
+            外在變更是一瞬間，心理轉變需要走過結束、中性區間與重生。以「多元可能自我」小步實驗，不再盲目豪賭。
+          </p>
+          <a href="chen-haixian-self-development.html#slide-12" class="situation-link">
+            直達 Slide 12：轉折期三階段過渡模型 →
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 頁腳 -->
+  <footer class="portal-footer">
+    <div class="footer-inner">
+      <div>
+        <div class="footer-brand-title">大衛雲 2.0 ｜ 心理學知識庫暨顧問簡報門戶</div>
+        <p>系統歸屬：大衛人生 ｜ A2. 專業管理 ▸ A2.2 個人成長 ▸ A2.2.4 心理學</p>
+        <p style="margin-top: 0.5rem; font-size: 0.8rem; color: #64748B;">
+          設計哲學：麥肯錫金字塔原理 (Minto Pyramid) × BCG 無雜訊簡報規範 × 認知鷹架理論
+        </p>
+      </div>
+      <div>
+        <div style="font-weight: 700; color: #FFFFFF; margin-bottom: 0.5rem;">快速連結</div>
+        <ul style="list-style: none; font-size: 0.85rem; line-height: 2;">
+          <li><a href="chen-haixian-self-development.html" style="color: #94A3B8; text-decoration: none;">▶ 陳海賢《自我發展心理學》16 頁線上簡報</a></li>
+          <li><a href="downloads/chen-haixian-self-development-zero-noise.pptx" style="color: #94A3B8; text-decoration: none;" download>📥 下載實體 PowerPoint (.pptx)</a></li>
+          <li><a href="https://github.com/davidyeh51/psychology-portal" target="_blank" style="color: #94A3B8; text-decoration: none;">🐙 GitHub 專案倉庫與源碼</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-copy">
+      &copy; 2026 David Yeh ｜ 大衛雲 2.0 知識中樞 ｜ 版權所有，歡迎學術與個人成長研討引用
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="search-index.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

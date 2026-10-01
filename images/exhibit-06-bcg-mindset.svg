@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#004F32" text-anchor="middle">BCG 2×2 心智模式矩陣：Carol Dweck 成長型思維 vs 防禦型思維</text>
+  
+  <!-- Y Axis -->
+  <line x1="450" y1="65" x2="450" y2="405" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4,4" />
+  <!-- X Axis -->
+  <line x1="90" y1="235" x2="810" y2="235" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4,4" />
+  
+  <!-- Axis Labels -->
+  <text x="450" y="60" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32" text-anchor="middle">▲ 挫折解讀：探索與回饋 (Curiosity)</text>
+  <text x="450" y="425" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#64748B" text-anchor="middle">▼ 挫折解讀：威脅與攻擊 (Threat)</text>
+  <text x="100" y="230" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#64748B" text-anchor="start">◄ 表現目標：證明自己 (Performance)</text>
+  <text x="800" y="230" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32" text-anchor="end">學習目標：發展能力 (Learning) ►</text>
+  
+  <!-- Quadrant 1: Top Right (GROWTH HERO) -->
+  <rect x="470" y="80" width="330" height="140" rx="8" fill="#F0FDF4" stroke="#29BA74" stroke-width="2" />
+  <text x="490" y="110" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#004F32">【右上・成長探索型】★ 策略核心</text>
+  <text x="490" y="135" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 視挫折為客觀數據，不評判個人本質價值</text>
+  <text x="490" y="157" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 主動犯「可承受的小錯」，在反饋中複利進化</text>
+  <text x="490" y="180" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#15803D">• 口頭禪：「我還沒學會，這正好讓我知道哪裡能補強」</text>
+
+  <!-- Quadrant 2: Top Left (IMPOSTOR) -->
+  <rect x="100" y="80" width="330" height="140" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <text x="120" y="110" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#475569">【左上・冒牌者焦慮型】</text>
+  <text x="120" y="135" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 雖保持好學，但內心極度害怕被識破無能</text>
+  <text x="120" y="157" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 成功歸因於運氣，失敗歸因於自身缺陷</text>
+  <text x="120" y="180" font-family="-apple-system, sans-serif" font-size="12" fill="#DC2626">• 口頭禪：「大家千萬別發現我其實沒那麼厲害」</text>
+
+  <!-- Quadrant 3: Bottom Left (FIXED DEFENSE) -->
+  <rect x="100" y="250" width="330" height="140" rx="8" fill="#FEF2F2" stroke="#EF4444" stroke-width="1.5" />
+  <text x="120" y="280" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#B91C1C">【左下・僵固防禦型】(對立面)</text>
+  <text x="120" y="305" font-family="-apple-system, sans-serif" font-size="12" fill="#7F1D1D">• 活在他人眼光中，脆弱高自尊，一觸即潰</text>
+  <text x="120" y="327" font-family="-apple-system, sans-serif" font-size="12" fill="#7F1D1D">• 迴避一切可能暴露不足的新挑戰，嫉妒他人</text>
+  <text x="120" y="350" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#DC2626">• 口頭禪：「反正我沒天賦，認真做只會丟臉」</text>
+
+  <!-- Quadrant 4: Bottom Right (CONSERVATIVE) -->
+  <rect x="470" y="250" width="330" height="140" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <text x="490" y="280" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#475569">【右下・謹慎保守型】</text>
+  <text x="490" y="305" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 渴望技能精進，但對威脅防備過度</text>
+  <text x="490" y="327" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 只在有100%把握的安全小圈子裡微調練習</text>
+  <text x="490" y="350" font-family="-apple-system, sans-serif" font-size="12" fill="#64748B">• 口頭禪：「慢慢來就好，千萬別冒險踏出界限」</text>
+  
+  <text x="450" y="448" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 6 ｜ BCG 2×2 矩陣：由僵固防禦躍遷至終身成長探索心態</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 460" width="100%" height="100%">
+  <rect width="920" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <!-- Header Title -->
+  <rect x="30" y="20" width="860" height="42" rx="6" fill="#051C2C" />
+  <text x="460" y="47" font-family="-apple-system, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle">哈佛 Robert Kegan 心理免疫系統 X 光片 (Immunity to Change Matrix)</text>
+  
+  <!-- 4 Columns -->
+  <!-- Col 1 -->
+  <g transform="translate(30, 75)">
+    <rect width="205" height="340" rx="8" fill="#FFFFFF" stroke="#0284C7" stroke-width="2" />
+    <rect width="205" height="40" rx="8" fill="#0284C7" />
+    <text x="102" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">① 渴望的改變目標</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#0369A1">【理性大腦承諾】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 我真正渴望達成的新行為</text>
+    <text x="15" y="120" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 帶來高價值的長期願景</text>
+    
+    <rect x="15" y="150" width="175" height="150" rx="6" fill="#F0F9FF" />
+    <text x="25" y="175" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0369A1">【典型個案】</text>
+    <text x="25" y="200" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">「在主管會議中主動發言，爭取領導新產品研發專案」</text>
+  </g>
+
+  <!-- Col 2 -->
+  <g transform="translate(248, 75)">
+    <rect width="205" height="340" rx="8" fill="#FFFFFF" stroke="#EA580C" stroke-width="2" />
+    <rect width="205" height="40" rx="8" fill="#EA580C" />
+    <text x="102" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">② 當前的相反行為</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#C2410C">【客觀事實阻礙】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 我正在做、阻礙目標的事</text>
+    <text x="15" y="120" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 表面看是拖延、逃避、沉默</text>
+    
+    <rect x="15" y="150" width="175" height="150" rx="6" fill="#FFF7ED" />
+    <text x="25" y="175" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#C2410C">【典型個案】</text>
+    <text x="25" y="200" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">「會議中全程低頭記筆記、主管點名時推託給資深同事」</text>
+  </g>
+
+  <!-- Col 3 -->
+  <g transform="translate(466, 75)">
+    <rect width="205" height="340" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="2" />
+    <rect width="205" height="40" rx="8" fill="#D97706" />
+    <text x="102" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">③ 競爭性承諾 (好處)</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#B45309">【潛意識安全保護】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 相反行為帶來的「隱含好處」</text>
+    <text x="15" y="120" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 若做目標行為，我最怕什麼？</text>
+    
+    <rect x="15" y="150" width="175" height="150" rx="6" fill="#FEF3C7" />
+    <text x="25" y="175" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B45309">【典型個案】</text>
+    <text x="25" y="200" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">「承諾保護自己不成為眾人攻擊的靶子，確保不承擔出錯恥辱」</text>
+  </g>
+
+  <!-- Col 4 -->
+  <g transform="translate(684, 75)">
+    <rect width="205" height="340" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="2" />
+    <rect width="205" height="40" rx="8" fill="#DC2626" />
+    <text x="102" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">④ 重大心理假設 ★</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#B91C1C">【未受檢驗世界觀】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 支撐整套防禦系統的底層假設</text>
+    <text x="15" y="120" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 設計小實驗反證其虛妄！</text>
+    
+    <rect x="15" y="150" width="175" height="150" rx="6" fill="#FEF2F2" />
+    <text x="25" y="175" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B91C1C">【典型個案】</text>
+    <text x="25" y="200" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">「若我主動表現卻失敗，就證明我徹底無能，將失去所有人尊重」</text>
+  </g>
+
+  <text x="460" y="442" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 4 ｜ 心理免疫四欄表：從相反行為反向推導重大假設，精準解除內在煞車</text>
+</svg>

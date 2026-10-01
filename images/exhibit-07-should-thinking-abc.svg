@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#051C2C" text-anchor="middle">認知解毒：Karen Horney 應該的暴政 × Albert Ellis ABC 反駁法</text>
+  
+  <!-- Left Side: Should Thinking Diagnosis -->
+  <g transform="translate(40, 60)">
+    <rect width="380" height="350" rx="10" fill="#FFFFFF" stroke="#DC2626" stroke-width="2" />
+    <rect width="380" height="40" rx="10" fill="#DC2626" />
+    <text x="190" y="26" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">應該思維 (暴政盲區)：混淆願望與事實</text>
+    
+    <rect x="20" y="55" width="340" height="85" rx="6" fill="#FEF2F2" />
+    <text x="35" y="80" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#B91C1C">對世界的應該思維：</text>
+    <text x="35" y="102" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">「計畫應該完全無瑕、別人應該理解我」</text>
+    <text x="35" y="122" font-family="-apple-system, sans-serif" font-size="11" fill="#DC2626">➔ 結果：現實一旦不如意，瞬間憤怒崩潰、怨懟世界</text>
+
+    <rect x="20" y="150" width="340" height="85" rx="6" fill="#FEF2F2" />
+    <text x="35" y="175" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#B91C1C">對自己的應該思維：</text>
+    <text x="35" y="197" font-family="-apple-system, sans-serif" font-size="11" fill="#1E293B">「我必須隨時完美、我絕不能感到焦慮恐懼」</text>
+    <text x="35" y="217" font-family="-apple-system, sans-serif" font-size="11" fill="#DC2626">➔ 結果：理想自我壓抑真實自我，引發深層情緒羞恥</text>
+    
+    <rect x="20" y="245" width="340" height="85" rx="6" fill="#F1F5F9" />
+    <text x="35" y="270" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#475569">悲觀絕對化 (Seligman 3P 陷阱)：</text>
+    <text x="35" y="292" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 永久化 (永遠好不起來) ｜ 普遍化 (整個人生完了)</text>
+    <text x="35" y="312" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 人格化 (全都是因為我天生無能)</text>
+  </g>
+
+  <!-- Right Side: Ellis REBT ABC+D Model -->
+  <g transform="translate(480, 60)">
+    <rect width="380" height="350" rx="10" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+    <rect width="380" height="40" rx="10" fill="#004F32" />
+    <text x="190" y="26" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">理性情緒反駁 (REBT)：ABC+D 破局心法</text>
+    
+    <!-- A Step -->
+    <rect x="20" y="55" width="340" height="55" rx="6" fill="#F8FAFC" stroke="#E2E8F0" />
+    <text x="35" y="77" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#051C2C">A (Activating Event) 客觀誘發事件</text>
+    <text x="35" y="97" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B">專案被主管退件修正（客觀事實，無情緒色彩）</text>
+
+    <!-- B Step -->
+    <rect x="20" y="118" width="340" height="55" rx="6" fill="#FEF3C7" stroke="#FDE68A" />
+    <text x="35" y="140" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#B45309">B (Belief) 關鍵信念透鏡 ★ 決定因子</text>
+    <text x="35" y="160" font-family="-apple-system, sans-serif" font-size="11" fill="#92400E">「這代表他看不起我，我永遠做不好」（非理性信念）</text>
+
+    <!-- C Step -->
+    <rect x="20" y="181" width="340" height="55" rx="6" fill="#FEE2E2" stroke="#FECACA" />
+    <text x="35" y="203" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#DC2626">C (Consequence) 情緒與行為後果</text>
+    <text x="35" y="223" font-family="-apple-system, sans-serif" font-size="11" fill="#B91C1C">極度沮喪、憤怒、冷戰消極怠工</text>
+
+    <!-- D Step -->
+    <rect x="20" y="244" width="340" height="85" rx="6" fill="#F0FDF4" stroke="#86EFAC" stroke-width="1.5" />
+    <text x="35" y="268" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#15803D">D (Disputation) 顧問反駁介入 ★ 解脫之道</text>
+    <text x="35" y="290" font-family="-apple-system, sans-serif" font-size="11" fill="#166534">「有什麼客觀證據證明他看不起我？退件只是內容格式需調整，並不代表人身否定！」</text>
+    <text x="35" y="312" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#15803D">➔ 轉化為 E (Effective Belief)：接納現實，專注修正</text>
+  </g>
+  
+  <text x="450" y="440" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 7 ｜ 認知重構：拆解應該思維，以 ABC+D 信念質疑奪回心理自主權</text>
+</svg>

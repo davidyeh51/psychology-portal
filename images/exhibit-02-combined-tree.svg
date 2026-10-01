@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="100%" height="100%">
+  <rect width="900" height="480" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <!-- 頂層：最終結論 -->
+  <rect x="150" y="25" width="600" height="75" rx="8" fill="#051C2C" />
+  <text x="450" y="55" font-family="-apple-system, sans-serif" font-size="18" font-weight="bold" fill="#F8FAFC" text-anchor="middle">【頂層結論】自我發展的本質是「心理系統的升級」</text>
+  <text x="450" y="80" font-family="-apple-system, sans-serif" font-size="13" fill="#38BDF8" text-anchor="middle">非單純意志力壓制 ｜ 而是認知、情感、關係與生命週期的全維重構</text>
+  
+  <!-- 中層三支柱 -->
+  <!-- 支柱 1 -->
+  <rect x="40" y="145" width="250" height="120" rx="8" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+  <rect x="40" y="145" width="250" height="32" rx="8" fill="#004F32" />
+  <text x="165" y="167" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">支柱一：行動系統重構</text>
+  <text x="55" y="200" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 象與騎象人：情感動力優先</text>
+  <text x="55" y="222" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 心理免疫：看清隱含好處</text>
+  <text x="55" y="244" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 小步子＋環境場：創造新經驗</text>
+
+  <!-- 支柱 2 -->
+  <rect x="325" y="145" width="250" height="120" rx="8" fill="#FFFFFF" stroke="#051C2C" stroke-width="2" />
+  <rect x="325" y="145" width="250" height="32" rx="8" fill="#051C2C" />
+  <text x="450" y="167" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">支柱二：心智模型躍遷</text>
+  <text x="340" y="200" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 成長型思維：把犯錯當數據</text>
+  <text x="340" y="222" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 破除應該思維：願望≠事實</text>
+  <text x="340" y="244" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• WOOP＋控制兩分法：聚焦可控</text>
+
+  <!-- 支柱 3 -->
+  <rect x="610" y="145" width="250" height="120" rx="8" fill="#FFFFFF" stroke="#6B21A8" stroke-width="2" />
+  <rect x="610" y="145" width="250" height="32" rx="8" fill="#6B21A8" />
+  <text x="735" y="167" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">支柱三：關係系統演化</text>
+  <text x="625" y="200" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 聽懂話外音：關係資訊維度</text>
+  <text x="625" y="222" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 去三角化：退出夾心人角色</text>
+  <text x="625" y="244" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 課題分離＋NVC：邊界清明</text>
+
+  <!-- 底層進階場景 -->
+  <rect x="40" y="310" width="395" height="125" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="40" y="310" width="395" height="28" fill="#E2E8F0" />
+  <text x="237" y="329" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A" text-anchor="middle">進階場景 A：轉折期三階段與意義重生</text>
+  <text x="55" y="360" font-family="-apple-system, sans-serif" font-size="12" fill="#334155">• 威廉·布里奇斯轉折模型：結束 ➔ 迷茫中性區 ➔ 重生啟程</text>
+  <text x="55" y="382" font-family="-apple-system, sans-serif" font-size="12" fill="#334155">• 職業轉型：以「多元可能自我 (Ibarra)」平行小步實驗</text>
+  <text x="55" y="404" font-family="-apple-system, sans-serif" font-size="12" fill="#334155">• 英雄之旅與救贖敘事：將苦難經驗轉化為自我進化恩賜</text>
+
+  <rect x="465" y="310" width="395" height="125" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="465" y="310" width="395" height="28" fill="#E2E8F0" />
+  <text x="662" y="329" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A" text-anchor="middle">進階場景 B：埃里克森生命地圖與終極使命</text>
+  <text x="480" y="360" font-family="-apple-system, sans-serif" font-size="12" fill="#334155">• 青春期（自我同一性）➔ 確立我是誰與真實方向</text>
+  <text x="480" y="382" font-family="-apple-system, sans-serif" font-size="12" fill="#334155">• 成年早期（親密與立業）➔ 敞開去愛與專長深耕</text>
+  <text x="480" y="404" font-family="-apple-system, sans-serif" font-size="12" fill="#334155">• 中年期（繁殖傳承）➔ 晚年期（自我整合與人生坦然）</text>
+
+  <!-- Connective Arrows -->
+  <path d="M450 100 L450 145" stroke="#051C2C" stroke-width="2" />
+  <path d="M250 100 L165 145" stroke="#004F32" stroke-width="2" />
+  <path d="M650 100 L735 145" stroke="#6B21A8" stroke-width="2" />
+  
+  <text x="450" y="465" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 2 ｜ 結合論法：三層金字塔演繹推導五大維度共構系統</text>
+</svg>

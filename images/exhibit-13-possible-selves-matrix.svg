@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#004F32" text-anchor="middle">BCG 2×2 生涯轉型決策矩陣：Herminia Ibarra「多元可能自我 (Working Identity)」</text>
+  
+  <!-- Y Axis -->
+  <line x1="450" y1="65" x2="450" y2="405" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4,4" />
+  <!-- X Axis -->
+  <line x1="90" y1="235" x2="810" y2="235" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4,4" />
+  
+  <!-- Axis Labels -->
+  <text x="450" y="60" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32" text-anchor="middle">▲ 轉型策略：平行小步試驗 (Parallel Experiment)</text>
+  <text x="450" y="425" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#64748B" text-anchor="middle">▼ 轉型策略：一刀切豪賭 / 固守不變 (All-or-Nothing)</text>
+  <text x="100" y="230" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#64748B" text-anchor="start">◄ 決策依據：經濟模型 (外在回報・性價比)</text>
+  <text x="800" y="230" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32" text-anchor="end">決策依據：心理模型 (內在契合・自我拓展) ►</text>
+  
+  <!-- Quadrants -->
+  <!-- Top Right: Possible Selves (Hero) -->
+  <rect x="470" y="80" width="330" height="140" rx="8" fill="#F0FDF4" stroke="#29BA74" stroke-width="2" />
+  <text x="490" y="110" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#004F32">【右上・多元可能自我】★ 策略高亮</text>
+  <text x="490" y="135" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 保留生存基線，在業餘啟動低風險專案</text>
+  <text x="490" y="157" font-family="-apple-system, sans-serif" font-size="12" fill="#1F2937">• 「邊做邊想」以行動培育新身分，安全過渡</text>
+  <text x="490" y="180" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#15803D">• 典範：從工程師兼職寫作，逐步演化為專欄作家</text>
+
+  <!-- Top Left: Side Hustle for Money -->
+  <rect x="100" y="80" width="330" height="140" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <text x="120" y="110" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#475569">【左上・純功利副業】</text>
+  <text x="120" y="135" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 雖分散財務風險，但只看短期變現</text>
+  <text x="120" y="157" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 缺乏內在熱情驅動，容易淪為雙重疲憊</text>
+  <text x="120" y="180" font-family="-apple-system, sans-serif" font-size="12" fill="#64748B">• 局限：無法觸發心靈深處的自我重塑</text>
+
+  <!-- Bottom Left: Traditional Trap -->
+  <rect x="100" y="250" width="330" height="140" rx="8" fill="#FEF2F2" stroke="#EF4444" stroke-width="1.5" />
+  <text x="120" y="280" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#B91C1C">【左下・傳統沉沒成本困局】(對立面)</text>
+  <text x="120" y="305" font-family="-apple-system, sans-serif" font-size="12" fill="#7F1D1D">• 困在薪水金絲雀籠中，天天抱怨卻不敢動</text>
+  <text x="120" y="327" font-family="-apple-system, sans-serif" font-size="12" fill="#7F1D1D">• 滿腦子性價比算計，最終在職業倦怠中枯萎</text>
+  <text x="120" y="350" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#DC2626">• 痛點：用安穩作為麻痺靈魂的藉口</text>
+
+  <!-- Bottom Right: Blind Resignation -->
+  <rect x="470" y="250" width="330" height="140" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" />
+  <text x="490" y="280" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#475569">【右下・衝動盲目裸辭】</text>
+  <text x="490" y="305" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 滿懷理想一刀切離職，缺乏緩衝試錯空間</text>
+  <text x="490" y="327" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 殘酷的現實財務壓力迅速扼殺剛萌芽的新身分</text>
+  <text x="490" y="350" font-family="-apple-system, sans-serif" font-size="12" fill="#DC2626">• 教訓：誤將外在辭職當作內在轉型的完成</text>
+  
+  <text x="450" y="448" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 13 ｜ 轉型矩陣：以多元可能自我平行實驗，取代傳統困局與盲目冒險</text>
+</svg>

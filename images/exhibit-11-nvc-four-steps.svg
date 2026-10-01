@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#004F32" text-anchor="middle">馬歇爾·盧森堡非暴力溝通 (NVC)：四步重建高品質人際連結</text>
+  
+  <!-- 4 Step Flow Horizontal -->
+  <g transform="translate(30, 65)">
+    <!-- Step 1 -->
+    <rect x="0" y="0" width="195" height="340" rx="8" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+    <rect x="0" y="0" width="195" height="40" rx="8" fill="#004F32" />
+    <text x="97" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1. 觀察 (Observation)</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32">【客觀事實】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 攝影機拍得到的具體畫面</text>
+    <text x="15" y="120" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 不帶任何道德評判或誇飾</text>
+    
+    <rect x="15" y="145" width="165" height="80" rx="6" fill="#FEE2E2" />
+    <text x="25" y="165" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#B91C1C">錯誤批判：</text>
+    <text x="25" y="185" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「你總是在偷懶敷衍！」</text>
+    
+    <rect x="15" y="235" width="165" height="85" rx="6" fill="#F0FDF4" />
+    <text x="25" y="255" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#15803D">正向觀察：</text>
+    <text x="25" y="275" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「這週兩次交報告時間，比預定截止晚了兩小時」</text>
+  </g>
+
+  <!-- Step 2 -->
+  <g transform="translate(245, 65)">
+    <rect x="0" y="0" width="195" height="340" rx="8" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+    <rect x="0" y="0" width="195" height="40" rx="8" fill="#004F32" />
+    <text x="97" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2. 感受 (Feeling)</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32">【真實脆弱】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 表達內在當下真實情緒</text>
+    <text x="15" y="120" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 區分感受 vs 偽裝指責</text>
+    
+    <rect x="15" y="145" width="165" height="80" rx="6" fill="#FEE2E2" />
+    <text x="25" y="165" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#B91C1C">偽裝感受：</text>
+    <text x="25" y="185" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「我覺得你毫無責任心！」</text>
+    
+    <rect x="15" y="235" width="165" height="85" rx="6" fill="#F0FDF4" />
+    <text x="25" y="255" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#15803D">真誠感受：</text>
+    <text x="25" y="275" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「當進度延誤時，我感到十分焦慮和沮喪」</text>
+  </g>
+
+  <!-- Step 3 -->
+  <g transform="translate(460, 65)">
+    <rect x="0" y="0" width="195" height="340" rx="8" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+    <rect x="0" y="0" width="195" height="40" rx="8" fill="#004F32" />
+    <text x="97" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3. 需要 (Need)</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32">【底層渴望】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 負面情緒源於未被滿足的需要</text>
+    <text x="15" y="120" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 看見彼此共有的生命需求</text>
+    
+    <rect x="15" y="145" width="165" height="80" rx="6" fill="#FEE2E2" />
+    <text x="25" y="165" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#B91C1C">忽視需要：</text>
+    <text x="25" y="185" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「你為什麼總是跟我作對！」</text>
+    
+    <rect x="15" y="235" width="165" height="85" rx="6" fill="#F0FDF4" />
+    <text x="25" y="255" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#15803D">表達需要：</text>
+    <text x="25" y="275" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「因為我非常需要團隊能保持資訊同步與穩定節奏」</text>
+  </g>
+
+  <!-- Step 4 -->
+  <g transform="translate(675, 65)">
+    <rect x="0" y="0" width="195" height="340" rx="8" fill="#FFFFFF" stroke="#29BA74" stroke-width="2.5" />
+    <rect x="0" y="0" width="195" height="40" rx="8" fill="#29BA74" />
+    <text x="97" y="25" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4. 請求 (Request) ★</text>
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32">【具體行動】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 提出明確、正向、可執行的請求</text>
+    <text x="15" y="120" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 區分「請求」與「懲罰命令」</text>
+    
+    <rect x="15" y="145" width="165" height="80" rx="6" fill="#FEE2E2" />
+    <text x="25" y="165" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#B91C1C">模糊命令：</text>
+    <text x="25" y="185" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「請你以後態度認真點！」</text>
+    
+    <rect x="15" y="235" width="165" height="85" rx="6" fill="#F0FDF4" />
+    <text x="25" y="255" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#15803D">清晰請求：</text>
+    <text x="25" y="275" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「下次若預計無法準時，能否提前半小時發訊息告知？」</text>
+  </g>
+  
+  <text x="450" y="440" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 11 ｜ 非暴力溝通四步推進法：觀察事實 ➔ 真誠感受 ➔ 洞察需要 ➔ 明確請求</text>
+</svg>

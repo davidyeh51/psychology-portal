@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#111827" text-anchor="middle">關係解套：Murray Bowen 去三角化 (Triangulation) × 阿德勒課題分離</text>
+  
+  <!-- Left Side: Triangulation Diagram -->
+  <g transform="translate(50, 65)">
+    <rect width="360" height="345" rx="10" fill="#FFFFFF" stroke="#DC2626" stroke-width="2" />
+    <rect width="360" height="38" rx="10" fill="#DC2626" />
+    <text x="180" y="25" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">【家庭與組織的三角化陷阱】</text>
+    
+    <!-- Triangle Visual -->
+    <circle cx="180" cy="95" r="24" fill="#FEF2F2" stroke="#DC2626" stroke-width="2" />
+    <text x="180" y="100" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#DC2626" text-anchor="middle">第三方 C</text>
+    <text x="180" y="132" font-family="-apple-system, sans-serif" font-size="10" fill="#64748B" text-anchor="middle">(孩子 / 夾心中階主管)</text>
+
+    <circle cx="85" cy="210" r="24" fill="#F1F5F9" stroke="#64748B" stroke-width="2" />
+    <text x="85" y="215" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#334155" text-anchor="middle">主體 A</text>
+
+    <circle cx="275" cy="210" r="24" fill="#F1F5F9" stroke="#64748B" stroke-width="2" />
+    <text x="275" y="215" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#334155" text-anchor="middle">主體 B</text>
+
+    <!-- Tension Line between A and B -->
+    <path d="M115 210 L245 210" stroke="#DC2626" stroke-width="3" stroke-dasharray="5,5" />
+    <text x="180" y="200" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#DC2626" text-anchor="middle">核心衝突焦慮 (難以直面)</text>
+
+    <!-- Triangulation Pull Lines -->
+    <path d="M100 190 L160 115" stroke="#F59E0B" stroke-width="2" />
+    <text x="110" y="150" font-family="-apple-system, sans-serif" font-size="9" fill="#B45309">拉攏結盟</text>
+    
+    <path d="M260 190 L200 115" stroke="#F59E0B" stroke-width="2" />
+    <text x="245" y="150" font-family="-apple-system, sans-serif" font-size="9" fill="#B45309">分擔砲火</text>
+
+    <rect x="20" y="250" width="320" height="80" rx="6" fill="#FEF2F2" />
+    <text x="30" y="272" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B91C1C">三角化毒害：</text>
+    <text x="30" y="292" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">• A與B的真實矛盾被掩蓋，轉化為慢性系統毒瘤</text>
+    <text x="30" y="312" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">• 第三方 C 承擔無辜罪責，喪失個人主體性</text>
+  </g>
+
+  <!-- Right Side: Separation of Tasks -->
+  <g transform="translate(480, 65)">
+    <rect width="370" height="345" rx="10" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+    <rect width="370" height="38" rx="10" fill="#004F32" />
+    <text x="185" y="25" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">【阿德勒課題分離：解套與邊界確立】</text>
+    
+    <rect x="25" y="55" width="320" height="80" rx="6" fill="#F0FDF4" stroke="#86EFAC" />
+    <text x="35" y="78" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#15803D">黃金判定準則：</text>
+    <text x="35" y="100" font-family="-apple-system, sans-serif" font-size="11" fill="#166534">「某種選擇所帶來的直接後果，最終由誰來承擔？」</text>
+    <text x="35" y="120" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#004F32">➔ 由誰承擔，那就是誰的課題！</text>
+
+    <!-- Two Pillars -->
+    <rect x="25" y="150" width="150" height="110" rx="6" fill="#F8FAFC" stroke="#CBD5E1" />
+    <text x="100" y="172" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">自己課題 (專注主控)</text>
+    <text x="35" y="195" font-family="-apple-system, sans-serif" font-size="10" fill="#475569">• 我的選擇與態度</text>
+    <text x="35" y="215" font-family="-apple-system, sans-serif" font-size="10" fill="#475569">• 我的工作成果與付出</text>
+    <text x="35" y="235" font-family="-apple-system, sans-serif" font-size="10" fill="#475569">• 絕不推卸屬於我的責任</text>
+
+    <rect x="195" y="150" width="150" height="110" rx="6" fill="#F8FAFC" stroke="#CBD5E1" />
+    <text x="270" y="172" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#DC2626" text-anchor="middle">他人課題 (尊重不干涉)</text>
+    <text x="205" y="195" font-family="-apple-system, sans-serif" font-size="10" fill="#475569">• 別人滿不滿意我</text>
+    <text x="205" y="215" font-family="-apple-system, sans-serif" font-size="10" fill="#475569">• 父母的情緒是否平靜</text>
+    <text x="205" y="235" font-family="-apple-system, sans-serif" font-size="10" fill="#475569">• 絕不僭越干涉他人課題</text>
+
+    <rect x="25" y="275" width="320" height="55" rx="6" fill="#FEF3C7" />
+    <text x="35" y="297" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B45309">去三角化實踐：「退出夾心，歸還責任」</text>
+    <text x="35" y="315" font-family="-apple-system, sans-serif" font-size="10" fill="#78350F">「這是你們兩人的課題，我相信你們有智慧直接對話解決。」</text>
+  </g>
+  
+  <text x="450" y="440" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 10 ｜ 關係解套：識破三角化夾心陷阱，落實阿德勒課題分離劃清邊界</text>
+</svg>

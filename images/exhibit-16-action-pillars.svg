@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#051C2C" text-anchor="middle">版型 2 並列論法：自我發展落地三角——行為微步化、思維彈性化、關係邊界化</text>
+  
+  <!-- 3 Parallel Columns -->
+  <!-- Col 1 -->
+  <g transform="translate(40, 60)">
+    <rect width="250" height="350" rx="8" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+    <rect width="250" height="40" rx="8" fill="#004F32" />
+    <text x="125" y="25" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">支柱一：行為微步化</text>
+    
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32">【行動系統落地】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 最小阻力第一步：阻力小到大象完全感受不到威脅</text>
+    <text x="15" y="130" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 環境場刺激：單一空間綁定特定微習慣，觸發自發行為</text>
+    <text x="15" y="165" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 心理免疫透視：停滯時填寫四欄表，看清隱含好處</text>
+    <text x="15" y="200" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 第二序列改變：努力無效時跳出框架，重寫遊戲規則</text>
+
+    <rect x="15" y="240" width="220" height="90" rx="6" fill="#F0FDF4" />
+    <text x="25" y="265" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#004F32">每日行動檢核：</text>
+    <text x="25" y="288" font-family="-apple-system, sans-serif" font-size="10" fill="#15803D">「今天我是否為大象創造了一個微小而愉悅的新經驗？」</text>
+  </g>
+
+  <!-- Col 2 -->
+  <g transform="translate(325, 60)">
+    <rect width="250" height="350" rx="8" fill="#FFFFFF" stroke="#051C2C" stroke-width="2.5" />
+    <rect width="250" height="40" rx="8" fill="#051C2C" />
+    <text x="125" y="25" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">支柱二：思維彈性化 ★</text>
+    
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#051C2C">【心智系統重構】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• WOOP 閉環：願望 ➔ 結果 ➔ 內在障礙 ➔ If-Then 方案</text>
+    <text x="15" y="130" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 控制兩分法：焦慮時區分可控與不可控，100%精力收斂</text>
+    <text x="15" y="165" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 瓦解應該思維：以客觀現實取代暴政，進行 ABC 反駁</text>
+    <text x="15" y="200" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 成長型心態：把犯錯當作學習數據，專注能力進化</text>
+
+    <rect x="15" y="240" width="220" height="90" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1" />
+    <text x="25" y="265" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#051C2C">每日思維檢核：</text>
+    <text x="25" y="288" font-family="-apple-system, sans-serif" font-size="10" fill="#1E3A8A">「我正在為證明自己而焦慮，還是為發展自己而探索？」</text>
+  </g>
+
+  <!-- Col 3 -->
+  <g transform="translate(610, 60)">
+    <rect width="250" height="350" rx="8" fill="#FFFFFF" stroke="#6B21A8" stroke-width="2" />
+    <rect width="250" height="40" rx="8" fill="#6B21A8" />
+    <text x="125" y="25" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">支柱三：關係邊界化</text>
+    
+    <text x="15" y="70" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#6B21A8">【人際系統演化】</text>
+    <text x="15" y="95" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 阿德勒課題分離：誰承受直接後果就是誰的責任</text>
+    <text x="15" y="130" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 去三角化：退出任何第三方的結盟與情緒夾心</text>
+    <text x="15" y="165" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 非暴力溝通四步：觀察事實 ➔ 感受 ➔ 需要 ➔ 清晰請求</text>
+    <text x="15" y="200" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 英雄之旅敘事：重寫生命故事，將創傷轉化為救贖恩賜</text>
+
+    <rect x="15" y="240" width="220" height="90" rx="6" fill="#F5F3FF" />
+    <text x="25" y="265" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#6B21A8">每日關係檢核：</text>
+    <text x="25" y="288" font-family="-apple-system, sans-serif" font-size="10" fill="#7C3AED">「我是否管好了自己的課題，並為對方留出了獨立空間？」</text>
+  </g>
+  
+  <text x="450" y="440" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 16 ｜ 落地行動藍圖：行為微步化、思維彈性化、關係邊界化三大支柱</text>
+</svg>

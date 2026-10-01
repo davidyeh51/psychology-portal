@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="38" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#051C2C" text-anchor="middle">系統控制論改變維度對比：瓦茲拉威克 (Watzlawick) 變革理論</text>
+  
+  <!-- Left: First Order Change -->
+  <g transform="translate(40, 60)">
+    <rect width="385" height="350" rx="10" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2" />
+    <rect width="385" height="42" rx="10" fill="#64748B" />
+    <text x="192" y="27" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">第一序列改變 (狀態微調・陷阱)</text>
+    
+    <text x="25" y="75" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#334155">【核心本質】More of the Same (更多同樣的努力)</text>
+    <text x="25" y="100" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 在「既定系統與舊遊戲規則內部」微調參數</text>
+    <text x="25" y="125" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 相信只要加倍努力、提高自律就能成功</text>
+    
+    <rect x="20" y="150" width="345" height="100" rx="6" fill="#F1F5F9" />
+    <text x="35" y="175" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#DC2626">【典型致命閉環】</text>
+    <text x="35" y="200" font-family="-apple-system, sans-serif" font-size="12" fill="#1E293B">失眠 ➔ 拚命逼自己睡 ➔ 精神更緊繃 ➔ 更睡不著</text>
+    <text x="35" y="225" font-family="-apple-system, sans-serif" font-size="12" fill="#1E293B">「企圖解決問題的手段，本身反倒成了問題！」</text>
+    
+    <text x="25" y="280" font-family="-apple-system, sans-serif" font-size="12" fill="#64748B">結果：陷入體能與心理耗竭，系統僵死在原地。</text>
+  </g>
+
+  <!-- Right: Second Order Change -->
+  <g transform="translate(475, 60)">
+    <rect width="385" height="350" rx="10" fill="#FFFFFF" stroke="#A100FF" stroke-width="2.5" />
+    <rect width="385" height="42" rx="10" fill="#A100FF" />
+    <text x="192" y="27" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">第二序列改變 (規則重寫・根本突破) ★</text>
+    
+    <text x="25" y="75" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#6B21A8">【核心本質】Reframing &amp; Rule Rewrite (系統躍遷)</text>
+    <text x="25" y="100" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 跳出既定框架，徹底改變系統運作的底層規則</text>
+    <text x="25" y="125" font-family="-apple-system, sans-serif" font-size="12" fill="#475569">• 重新定義問題，瓦解原有困境的成立前提</text>
+    
+    <rect x="20" y="150" width="345" height="100" rx="6" fill="#F5F3FF" stroke="#DDD6FE" stroke-width="1" />
+    <text x="35" y="175" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#7C3AED">【顛覆性破局做法】</text>
+    <text x="35" y="200" font-family="-apple-system, sans-serif" font-size="12" fill="#1E293B">失眠 ➔ 坦然接納睡不著 ➔ 起床去客廳看書 ➔ 焦慮消除</text>
+    <text x="35" y="225" font-family="-apple-system, sans-serif" font-size="12" fill="#1E293B">「不以解決問題為目的，反倒讓問題自然消散！」</text>
+    
+    <text x="25" y="280" font-family="-apple-system, sans-serif" font-size="12" fill="#7C3AED" font-weight="bold">結果：遊戲規則改變，生命進入全新自由維度。</text>
+  </g>
+  
+  <text x="450" y="440" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 5 ｜ 對立論法：第一序列微調 vs 第二序列規則顛覆</text>
+</svg>

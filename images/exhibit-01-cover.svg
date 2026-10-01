@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#051C2C" />
+      <stop offset="50%" stop-color="#0F2942" />
+      <stop offset="100%" stop-color="#1E3A8A" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.4" />
+    </filter>
+  </defs>
+  <rect width="800" height="450" rx="16" fill="url(#bgGrad1)" />
+  <circle cx="400" cy="225" r="180" fill="none" stroke="#2563EB" stroke-width="1.5" stroke-dasharray="6,6" opacity="0.3" />
+  <circle cx="400" cy="225" r="130" fill="none" stroke="#60A5FA" stroke-width="2" opacity="0.5" />
+  <circle cx="400" cy="225" r="80" fill="#0A2540" stroke="url(#goldGrad)" stroke-width="3" filter="url(#shadow)" />
+  
+  <!-- Central Icon: System Evolution / Inner Growth -->
+  <path d="M400 175 L415 210 L452 214 L424 238 L432 274 L400 255 L368 274 L376 238 L348 214 L385 210 Z" fill="url(#goldGrad)" />
+  <text x="400" y="240" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">EVOLVE</text>
+
+  <!-- 5 Nodes around the circle -->
+  <!-- Node 1: 行為 -->
+  <g transform="translate(400, 70)">
+    <rect x="-65" y="-22" width="130" height="44" rx="22" fill="#0B3056" stroke="#38BDF8" stroke-width="2" filter="url(#shadow)" />
+    <text x="0" y="5" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">01 行為新經驗</text>
+  </g>
+  <!-- Node 2: 思維 -->
+  <g transform="translate(560, 160)">
+    <rect x="-65" y="-22" width="130" height="44" rx="22" fill="#0B3056" stroke="#38BDF8" stroke-width="2" filter="url(#shadow)" />
+    <text x="0" y="5" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">02 心智成長型</text>
+  </g>
+  <!-- Node 3: 關係 -->
+  <g transform="translate(510, 340)">
+    <rect x="-65" y="-22" width="130" height="44" rx="22" fill="#0B3056" stroke="#38BDF8" stroke-width="2" filter="url(#shadow)" />
+    <text x="0" y="5" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">03 關係去三角</text>
+  </g>
+  <!-- Node 4: 轉折 -->
+  <g transform="translate(290, 340)">
+    <rect x="-65" y="-22" width="130" height="44" rx="22" fill="#0B3056" stroke="#38BDF8" stroke-width="2" filter="url(#shadow)" />
+    <text x="0" y="5" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">04 轉折重生期</text>
+  </g>
+  <!-- Node 5: 地圖 -->
+  <g transform="translate(240, 160)">
+    <rect x="-65" y="-22" width="130" height="44" rx="22" fill="#0B3056" stroke="#38BDF8" stroke-width="2" filter="url(#shadow)" />
+    <text x="0" y="5" font-family="-apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">05 人生地圖使命</text>
+  </g>
+
+  <!-- Connective Arrows -->
+  <path d="M465 75 Q540 100 550 135" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" />
+  <path d="M570 185 Q570 260 520 315" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" />
+  <path d="M445 345 L355 345" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" />
+  <path d="M280 315 Q230 260 230 185" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" />
+  <path d="M250 135 Q260 100 335 75" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" />
+  
+  <text x="400" y="420" font-family="-apple-system, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">EXHIBIT 1 ｜ 自我發展心理學五維全景系統動力模型</text>
+</svg>

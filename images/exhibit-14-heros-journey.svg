@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#111827" text-anchor="middle">意義重構：Joseph Campbell 單子神話英雄之旅 × Dan McAdams 救贖敘事</text>
+  
+  <!-- 3 Pillar Journey Map -->
+  <g transform="translate(40, 60)">
+    <!-- Stage 1 -->
+    <rect width="255" height="350" rx="8" fill="#FFFFFF" stroke="#0066CC" stroke-width="2" />
+    <rect width="255" height="38" rx="8" fill="#0066CC" />
+    <text x="127" y="24" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">第一幕：啟程 (Departure)</text>
+    <text x="15" y="65" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#0066CC">【跨越熟悉的日常界限】</text>
+    <text x="15" y="90" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 聽見冒險的召喚：覺察現狀已枯竭</text>
+    <text x="15" y="115" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 克服對未知的本能恐懼與拒絕召喚</text>
+    <text x="15" y="140" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 遇見智者或內在信念導師指引</text>
+    <text x="15" y="165" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 跨過第一道守門人門檻，踏上未知</text>
+    <rect x="15" y="210" width="225" height="110" rx="6" fill="#F0F9FF" />
+    <text x="25" y="235" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0369A1">心理意涵：</text>
+    <text x="25" y="258" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">不再安於受害者角色，主動承認舊的生活方式無法支撐未來的自我。</text>
+  </g>
+
+  <!-- Stage 2 -->
+  <g transform="translate(320, 60)">
+    <rect width="260" height="350" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="2" />
+    <rect width="260" height="38" rx="8" fill="#DC2626" />
+    <text x="130" y="24" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">第二幕：深淵啟蒙 (Initiation)</text>
+    <text x="15" y="65" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#B91C1C">【至暗時刻與心靈淬煉】</text>
+    <text x="15" y="90" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 經歷一連串嚴酷考驗、背叛與創傷</text>
+    <text x="15" y="115" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 進入內心最深處的黑暗洞穴 (Abyss)</text>
+    <text x="15" y="140" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 舊自我與虛妄自尊的象徵性死亡</text>
+    <text x="15" y="165" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 浴火重生，獲得心靈超凡智慧良藥</text>
+    <rect x="15" y="210" width="230" height="110" rx="6" fill="#FEF2F2" />
+    <text x="25" y="235" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B91C1C">救贖敘事 (Redemption)：</text>
+    <text x="25" y="258" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">拒絕「污染敘事（好境況被徹底毀掉）」；堅定認定「正是這段深淵，賦予我前所未有的慈悲與韌性」。</text>
+  </g>
+
+  <!-- Stage 3 -->
+  <g transform="translate(605, 60)">
+    <rect width="255" height="350" rx="8" fill="#FFFFFF" stroke="#004F32" stroke-width="2" />
+    <rect width="255" height="38" rx="8" fill="#004F32" />
+    <text x="127" y="24" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">第三幕：回歸饋贈 (Return)</text>
+    <text x="15" y="65" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32">【帶著智慧良藥回饋社群】</text>
+    <text x="15" y="90" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 跨越歸途門檻，重返日常生活</text>
+    <text x="15" y="115" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 成為兩個世界的引領者與主宰者</text>
+    <text x="15" y="140" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 將苦難轉化為陪伴與啟發他人的光</text>
+    <text x="15" y="165" font-family="-apple-system, sans-serif" font-size="11" fill="#334155">• 自我系統圓滿升級，迎向下一次冒險</text>
+    <rect x="15" y="210" width="225" height="110" rx="6" fill="#F0FDF4" />
+    <text x="25" y="235" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#15803D">終極整合：</text>
+    <text x="25" y="258" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">你不是命運的受害者，你是這部英雄傳記的主動撰寫者！</text>
+  </g>
+  
+  <text x="450" y="440" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 14 ｜ 英雄之旅三幕九階圖：以救贖敘事重寫生命故事，賦予苦難超凡意義</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#051C2C" text-anchor="middle">William Bridges 人生轉折三部曲：外在變故是一瞬，內在轉折是漫長的心理過渡</text>
+  
+  <!-- U-Curve Path Visual -->
+  <path d="M100 120 C 250 120, 320 260, 450 260 C 580 260, 650 120, 800 120" fill="none" stroke="#CBD5E1" stroke-width="4" stroke-dasharray="6,6" />
+  <path d="M100 120 C 200 120, 250 200, 300 240" fill="none" stroke="#DC2626" stroke-width="5" />
+  <path d="M300 240 C 370 280, 530 280, 600 240" fill="none" stroke="#D97706" stroke-width="5" />
+  <path d="M600 240 C 650 200, 700 120, 800 120" fill="none" stroke="#16A34A" stroke-width="5" />
+  
+  <!-- Phase 1: Endings -->
+  <g transform="translate(60, 160)">
+    <rect width="230" height="230" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="2" />
+    <rect width="230" height="32" rx="8" fill="#DC2626" />
+    <text x="115" y="22" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">第一階段：結束 (Endings)</text>
+    <text x="15" y="55" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B91C1C">【告別與脫離舊自我】</text>
+    <text x="15" y="78" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 心理任務：承認喪失、允許哀傷</text>
+    <text x="15" y="98" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 舉辦心理告別儀式，放下舊身分安全感</text>
+    <rect x="15" y="125" width="200" height="85" rx="6" fill="#FEF2F2" />
+    <text x="25" y="147" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#B91C1C">顧問金句：</text>
+    <text x="25" y="167" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「沒有徹底而坦誠的結束，就不可能迎來真正的開始。」</text>
+  </g>
+
+  <!-- Phase 2: Neutral Zone -->
+  <g transform="translate(335, 180)">
+    <rect width="230" height="230" rx="8" fill="#FFFFFF" stroke="#D97706" stroke-width="2" />
+    <rect width="230" height="32" rx="8" fill="#D97706" />
+    <text x="115" y="22" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">第二階段：迷茫中性區 (Neutral)</text>
+    <text x="15" y="55" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B45309">【混沌中的創新孵化期】</text>
+    <text x="15" y="78" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 狀態：舊模式已死，新模式未生</text>
+    <text x="15" y="98" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 致命誘惑：因恐懼草率抓住錯的稻草</text>
+    <rect x="15" y="125" width="200" height="85" rx="6" fill="#FEF3C7" />
+    <text x="25" y="147" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#B45309">顧問金句：</text>
+    <text x="25" y="167" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「迷茫不是浪費時間，而是種子在冰雪泥土中積蓄重生的養分。」</text>
+  </g>
+
+  <!-- Phase 3: New Beginnings -->
+  <g transform="translate(610, 160)">
+    <rect width="230" height="230" rx="8" fill="#FFFFFF" stroke="#16A34A" stroke-width="2" />
+    <rect width="230" height="32" rx="8" fill="#16A34A" />
+    <text x="115" y="22" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">第三階段：重生 (Beginnings)</text>
+    <text x="15" y="55" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#15803D">【內在指南針校準啟程】</text>
+    <text x="15" y="78" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 心理任務：重構個人價值觀優先序</text>
+    <text x="15" y="98" font-family="-apple-system, sans-serif" font-size="10" fill="#334155">• 採取微步行動，培育全新成熟身分</text>
+    <rect x="15" y="125" width="200" height="85" rx="6" fill="#F0FDF4" />
+    <text x="25" y="147" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#15803D">顧問金句：</text>
+    <text x="25" y="167" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">「以開放好奇的心態擁抱新世界，自我系統完成深層升級。」</text>
+  </g>
+  
+  <text x="450" y="440" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 12 ｜ 轉折 U 型曲線：告別結束 ➔ 耐受迷茫中性區 ➔ 迎向新生的心理過渡歷程</text>
+</svg>

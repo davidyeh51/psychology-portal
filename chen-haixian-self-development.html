@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>陳海賢《自我發展心理學》16頁無雜訊顧問簡報 ｜ 大衛雲 2.0</title>
+  <meta name="description" content="根據前 BCG 顧問森秀明無雜訊簡報規範（8 大論法版型）與三大頂尖管顧視覺標準，萃取陳海賢博士《了不起的我》五大模組精華。">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📊</text></svg>">
+</head>
+<body style="background-color: #0A192F;">
+
+  <!-- 頂部精簡工具列 -->
+  <div class="deck-view-container" style="padding-bottom: 0;">
+    <div class="deck-toolbar">
+      <div style="display: flex; align-items: center; gap: 0.75rem;">
+        <a href="index.html" class="btn-deck-nav" title="返回心理學入口門戶 (快捷鍵 H)">
+          <span>←</span> 返回門戶首頁
+        </a>
+        <span style="font-weight: 700; font-size: 0.95rem; color: #E2E8F0; display: flex; align-items: center; gap: 0.4rem;">
+          <span style="background: var(--accent-gold); color: var(--primary-navy); font-size: 0.7rem; padding: 2px 6px; border-radius: 4px;">PPTX DECK</span>
+          陳海賢《自我發展心理學》高階導讀
+        </span>
+      </div>
+
+      <!-- 核心翻頁與控制按鈕群 -->
+      <div class="deck-nav-btns">
+        <button id="btnPrevSlide" class="btn-deck-nav" title="上一頁 (快捷鍵 ← 或 PageUp)">◀ 上一頁</button>
+        <span id="slideCounter" class="slide-counter">1 / 16</span>
+        <button id="btnNextSlide" class="btn-deck-nav" title="下一頁 (快捷鍵 → 或 PageDown / Space)">下一頁 ▶</button>
+        
+        <select id="quickJumpSelect" class="deck-quick-jump" title="快速跳轉至指定投影片"></select>
+
+        <button id="btnToggleNotes" class="btn-deck-nav" title="開關演講備忘錄 (快捷鍵 N)">
+          <span>📝</span> 講稿 (N)
+        </button>
+        <button id="btnFullscreen" class="btn-deck-nav" title="切換全螢幕模式 (快捷鍵 F)">
+          <span>⛶</span> 全螢幕 (F)
+        </button>
+        <a href="downloads/chen-haixian-self-development-zero-noise.pptx" class="btn-deck-nav" download title="下載實體 PowerPoint 檔案">
+          <span>📥</span> 下載 .pptx
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 簡報主畫布 (Slide Stage) -->
+  <div class="deck-view-container">
+    <div class="slide-stage" id="slideMainStage">
+      
+      <!-- 投影片頂部標題區 -->
+      <div class="slide-header">
+        <div class="slide-meta-row">
+          <span id="slideCategoryBadge" class="slide-category-badge">封面導讀</span>
+          <span id="slideLayoutTag" class="slide-layout-tag">版型 1：一對一論法 ｜ MCKINSEY Style</span>
+        </div>
+        <h2 id="slideActionTitle" class="slide-action-title">
+          ① 主張：自我發展的核心不是『修正個人缺陷』，而是『升級整個心理系統的運作架構』
+        </h2>
+        <div id="slideSubtitle" class="slide-subtitle">
+          頂尖顧問無雜訊簡報規範 ｜ 結論先行 (Top-Down Action Title) ＋ 結構化證據展開
+        </div>
+      </div>
+
+      <!-- 投影片內容雙欄區 (左: 展覽圖 / 右: 雙層認知鷹架與行動矩陣) -->
+      <div class="slide-body-grid">
+        
+        <!-- 左欄: 高解析度向量 SVG 展覽圖 (Exhibit) -->
+        <div class="slide-exhibit-container">
+          <img id="slideExhibitImg" class="slide-exhibit-img" src="images/exhibit-01-cover.svg" alt="展覽圖">
+          <div id="exhibitCaption" class="exhibit-caption">
+            EXHIBIT 1 ｜ 自我發展心理學五維系統模型
+          </div>
+        </div>
+
+        <!-- 右欄: 雙層認知鷹架與結構化表格 -->
+        <div class="scaffolding-container">
+          
+          <!-- 入門者視角 (生活痛點與直觀隱喻) -->
+          <div class="scaffold-card beginner">
+            <div class="scaffold-header">
+              <span>🌱</span> 【入門者解讀・生活痛點與直觀隱喻】
+            </div>
+            <div id="beginnerContent" class="scaffold-text">
+              為什麼我總覺得自己意志力薄弱、立了志向卻總是無法堅持？陳海賢指出：問題不在你懶，而是你的心理操作系統還停留在舊版本。
+            </div>
+          </div>
+
+          <!-- 進階者架構 (心理學機制與決策模型) -->
+          <div class="scaffold-card advanced">
+            <div class="scaffold-header">
+              <span>⚡</span> 【進階者模型・心理學底層機制與決策】
+            </div>
+            <div id="advancedContent" class="scaffold-text">
+              將自我視為一套動態演化複雜系統，包含行為、認知、關係、轉折與生命發展五大層次，牽一髮動全身。
+            </div>
+          </div>
+
+          <!-- 結構化落地行動矩陣表格 -->
+          <div id="actionTableWrap" class="slide-action-table-wrap"></div>
+        </div>
+      </div>
+
+      <!-- 投影片底部資料來源與快捷鍵提示 -->
+      <div class="slide-footer-row">
+        <div id="slideFooterSource">
+          Source: 陳海賢《了不起的我：自我發展的心理學》 ｜ 投影片 #1 ｜ 大衛雲 2.0 A2.2.4
+        </div>
+        <div style="font-size: 0.75rem; color: #94A3B8;">
+          快捷鍵提示：<kbd>←</kbd> / <kbd>→</kbd> 翻頁 ｜ <kbd>N</kbd> 講稿 ｜ <kbd>F</kbd> 全螢幕 ｜ <kbd>H</kbd> 首頁
+        </div>
+      </div>
+
+      <!-- 講稿備忘錄抽屜 (按下 N 展開) -->
+      <div id="speakerNotesDrawer" class="speaker-notes-drawer">
+        <div class="notes-title">
+          <span>🎙️</span> 三段式顧問演講備忘錄 (Speaker Notes ｜ 快捷鍵 N 開關)
+        </div>
+        <div class="notes-grid">
+          <div>
+            <strong style="color: #92400E; display: block; margin-bottom: 0.2rem;">① 本頁核心結論 (Conclusion)：</strong>
+            <span id="noteConclusion">自我發展的核心不是修正個人缺陷，而是升級心理系統架構。</span>
+          </div>
+          <div>
+            <strong style="color: #92400E; display: block; margin-bottom: 0.2rem;">② 顧問深度脈絡 (Context)：</strong>
+            <span id="noteExplanation">本份簡報萃取陳海賢博士 50 講精華，以頂尖顧問標準製作。</span>
+          </div>
+          <div>
+            <strong style="color: #92400E; display: block; margin-bottom: 0.2rem;">③ 下一頁轉場 (Transition)：</strong>
+            <span id="noteTransition">首先，讓我們透過全景架構圖，鳥瞰五大維度。</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- 底部 16 頁縮圖跳轉抽屜 -->
+    <div class="deck-overview-drawer">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+        <span style="font-size: 0.85rem; font-weight: 700; color: var(--primary-navy);">
+          📑 全書 16 頁簡報縮圖索引 (點擊任一頁立即跳轉)：
+        </span>
+        <span style="font-size: 0.75rem; color: var(--text-muted);">
+          涵蓋行為改變、心智模式、關係演化、轉折過渡與埃里克森人生地圖
+        </span>
+      </div>
+      <div id="thumbGridContainer" class="thumb-grid"></div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="search-index.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

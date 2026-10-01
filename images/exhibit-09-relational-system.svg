@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="100%" height="100%">
+  <rect width="900" height="460" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  
+  <text x="450" y="35" font-family="-apple-system, sans-serif" font-size="16" font-weight="bold" fill="#051C2C" text-anchor="middle">模組三 關係的改變：系統動力學視角 vs 個體孤島視角</text>
+  
+  <!-- Circular Feedback Diagram in Center-Top -->
+  <g transform="translate(180, 55)">
+    <rect width="540" height="110" rx="8" fill="#F1F5F9" stroke="#CBD5E1" />
+    <text x="270" y="24" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#051C2C" text-anchor="middle">【系統閉環反饋：追與逃的雙人舞】</text>
+    
+    <rect x="25" y="40" width="160" height="50" rx="6" fill="#FEE2E2" />
+    <text x="105" y="62" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#B91C1C" text-anchor="middle">A 感到焦慮 ➔ 逼近質問</text>
+    <text x="105" y="78" font-family="-apple-system, sans-serif" font-size="9" fill="#DC2626" text-anchor="middle">（渴望確認關係安全）</text>
+
+    <path d="M195 65 L245 65" stroke="#051C2C" stroke-width="2" marker-end="url(#arrow)" />
+    
+    <rect x="255" y="40" width="160" height="50" rx="6" fill="#EFF6FF" />
+    <text x="335" y="62" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" fill="#1D4ED8" text-anchor="middle">B 感到窒息 ➔ 沉默逃避</text>
+    <text x="335" y="78" font-family="-apple-system, sans-serif" font-size="9" fill="#2563EB" text-anchor="middle">（渴望保護個人空間）</text>
+    
+    <!-- Curved back arrow -->
+    <path d="M425 65 Q480 65 480 95 Q480 120 270 120 Q60 120 60 95" fill="none" stroke="#DC2626" stroke-width="1.5" stroke-dasharray="4,4" />
+    <text x="270" y="105" font-family="-apple-system, sans-serif" font-size="10" fill="#DC2626" text-anchor="middle">▲ B越逃 ➔ A越恐慌 ➔ 追得更兇（閉環升級）</text>
+  </g>
+
+  <!-- 3 Comparison Cards Below -->
+  <g transform="translate(40, 185)">
+    <!-- Card 1: 語言層次 -->
+    <rect width="250" height="225" rx="8" fill="#FFFFFF" stroke="#0284C7" stroke-width="1.5" />
+    <rect width="250" height="32" rx="8" fill="#0284C7" />
+    <text x="125" y="22" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1. 語言的兩個層次</text>
+    <text x="15" y="55" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#0369A1">【內容層 vs 關係層】</text>
+    <text x="15" y="80" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 內容層：表面字句事實</text>
+    <text x="15" y="105" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 關係層：話外音中的權力界定、身分認可與依賴程度</text>
+    <rect x="15" y="130" width="220" height="75" rx="6" fill="#F0F9FF" />
+    <text x="25" y="152" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#0369A1">高階洞察：</text>
+    <text x="25" y="172" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">所有無休止的講道理爭辯，爭的都不是道理本身，而是關係中的話語權！</text>
+  </g>
+
+  <g transform="translate(325, 185)">
+    <!-- Card 2: 角色期待 -->
+    <rect width="250" height="225" rx="8" fill="#FFFFFF" stroke="#004F32" stroke-width="1.5" />
+    <rect width="250" height="32" rx="8" fill="#004F32" />
+    <text x="125" y="22" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2. 角色的系統互補</text>
+    <text x="15" y="55" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#004F32">【強者與弱者相互滋養】</text>
+    <text x="15" y="80" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 強制管束者的存在，依賴於被管束者的妥協順從</text>
+    <text x="15" y="110" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 過度承擔的拯救者，往往親手製造了無能的依賴者</text>
+    <rect x="15" y="130" width="220" height="75" rx="6" fill="#F0FDF4" />
+    <text x="25" y="152" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#004F32">高階洞察：</text>
+    <text x="25" y="172" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">想改變對方的軟弱，先停下自己的過度包辦；改變系統從自身舞步開始！</text>
+  </g>
+
+  <g transform="translate(610, 185)">
+    <!-- Card 3: 新契約重構 -->
+    <rect width="250" height="225" rx="8" fill="#FFFFFF" stroke="#6B21A8" stroke-width="1.5" />
+    <rect width="250" height="32" rx="8" fill="#6B21A8" />
+    <text x="125" y="22" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3. 重寫新關係契約</text>
+    <text x="15" y="55" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold" fill="#6B21A8">【透明對等的演化】</text>
+    <text x="15" y="80" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 主動表達個人邊界與底線</text>
+    <text x="15" y="105" font-family="-apple-system, sans-serif" font-size="11" fill="#475569">• 將潛意識隱形契約轉化為公開協商的正向約定</text>
+    <rect x="15" y="130" width="220" height="75" rx="6" fill="#F5F3FF" />
+    <text x="25" y="152" font-family="-apple-system, sans-serif" font-size="10" font-weight="bold" fill="#6B21A8">高階洞察：</text>
+    <text x="25" y="172" font-family="-apple-system, sans-serif" font-size="10" fill="#1E293B">不寄望對方主動開竅，而是以成人的成熟姿態，共同定義健康合作關係。</text>
+  </g>
+  
+  <text x="450" y="440" font-family="-apple-system, sans-serif" font-size="11" fill="#64748B" text-anchor="middle">EXHIBIT 9 ｜ 關係系統矩陣：看懂人際循環因果，以改變自身應對重構新契約</text>
+</svg>
